@@ -1,0 +1,3 @@
+../Core/Src/LS_Sine.c:15:6:ls_sine_calcSine	4
+../Core/Src/LS_Sine.c:67:6:ls_sine_create_matrices	2
+../Core/Src/LS_Sine.c:119:5:ls_sine_inv_matrix	3
