@@ -2,7 +2,9 @@
 
 This repo contains the code for a Nucleo STM32F303K8 and a pc client to utilize a LVDT test indicator.
 
-Typical high precision digital test indicators use a Linear Varaible Differential Transformer (LVDT), used by for example Mahr, Tesa, etc.
+![](docs/nucleo_w_board0.jpg)
+
+Typical high precision digital test indicators use a Linear Varaible Differential Transformer (LVDT), used by for example Mahr, Tesa, etc. In this project a Mahr P2004M was used.
 
 More info regarding the principle of LVDT can be found on [wikipedia](https://en.wikipedia.org/wiki/Linear_variable_differential_transformer) but also this site [rdp-group](https://www.rdpe.com/ex/hiw-lvdt.htm) has a really nice animation of the working principle.
 
@@ -25,6 +27,4 @@ Appart from the Nucleo a custom PCB was designed in order to amplify the outgoin
 ![](docs/schematic.png)
 
 ![](docs/board0.jpg)
-
-![](docs/nucleo_w_board0.jpg)
 
