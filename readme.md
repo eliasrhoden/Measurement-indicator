@@ -17,3 +17,14 @@ The sampled sine wave and least square wave is plotted by the client, and the me
 ![client](docs/client.png)
 
 For the Nucleo code, STM32CubeIDE v1.18.1 was used.
+
+## Hardware
+
+Appart from the Nucleo a custom PCB was designed in order to amplify the outgoing and incoming signals to the measurement probe.
+
+![](docs/schematic.png)
+
+![](docs/board0.jpg)
+
+![](docs/nucleo_w_board0.jpg)
+
