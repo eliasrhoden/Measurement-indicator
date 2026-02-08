@@ -2,6 +2,8 @@
 
 This repo contains the code for a Nucleo STM32F303K8 and a pc client to utilize a LVDT test indicator.
 
+Releated blog post: [eliasrhoden.github.io](https://eliasrhoden.github.io/embedded/2025/06/15/Measurement-Test-indicator.html)
+
 ![](docs/nucleo_w_board0.jpg)
 
 Typical high precision digital test indicators use a Linear Varaible Differential Transformer (LVDT), used by for example Mahr, Tesa, etc. In this project a Mahr P2004M was used.
