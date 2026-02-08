@@ -26,6 +26,8 @@ For the Nucleo code, STM32CubeIDE v1.18.1 was used.
 
 Appart from the Nucleo a custom PCB was designed in order to amplify the outgoing and incoming signals to the measurement probe.
 
+![](docs/lvdt_blk_diag.drawio.png)
+
 ![](docs/schematic.png)
 
 ![](docs/board0.jpg)
